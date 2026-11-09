@@ -1,0 +1,75 @@
+# Master Map Source
+
+- Cybersecurity Standards, Frameworks and Regulations
+  - Information Security Management
+    - ISO/IEC 27001: ISMS Requirements
+    - ISO/IEC 27002: Information Security Controls Guidance
+    - ISO/IEC 27005: Information Security Risk Management
+  - Cybersecurity Governance
+    - NIST CSF 2.0: Govern, Identify, Protect, Detect, Respond, Recover
+    - COBIT: Governance and Management of Enterprise IT
+    - CIS Controls: Prioritized Cybersecurity Safeguards
+    - NIST SP 800-53: Security and Privacy Control Catalog
+  - Cloud Security
+    - ISO/IEC 27017: Cloud Security Controls Guidance
+    - ISO/IEC 27018: Protection of PII in Public Cloud
+    - ISO/IEC 27036-4: Security of Cloud Service Supplier Relationships
+    - CSA: CCM, CAIQ, STAR
+    - FedRAMP: US Federal Cloud Authorization
+    - ENISA: Cloud Security Risk Assessment and EUCS
+    - NIST SP 800-145: Cloud Definition
+    - NIST SP 800-146: Cloud Security and Adoption Guidance
+  - AI Governance and Risk
+    - ISO/IEC 42001: Artificial Intelligence Management System
+    - ISO/IEC 42005: AI System Impact Assessment
+    - ISO/IEC 27090: AI Cybersecurity
+    - NIST AI RMF 1.0: Govern, Map, Measure, Manage
+    - NIST AI 600-1: Generative AI Profile
+    - EU AI Act: Risk-based AI Regulation
+  - Privacy Management
+    - ISO/IEC 27701: Privacy Information Management System
+    - ISO/IEC 27018: PII Protection in Public Cloud
+    - GDPR: EU Personal Data Protection Regulation
+  - Sector and Regional Regulations
+    - HIPAA and HITECH
+    - GLBA
+    - PIPEDA
+    - Australian Privacy Act 1988
+    - CCPA and CPRA
+    - LGPD
+    - COPPA
+    - FERPA
+    - SOX
+    - FISMA
+    - PCI DSS
+  - Risk Management
+    - ISO 31000
+      - IEC 31010
+      - ISO 31073
+    - NIST SP 800-30
+    - NIST SP 800-37
+  - Cryptography and Key Management
+    - FIPS 140-3
+    - NIST SP 800-57
+  - Incident Management and Digital Forensics
+    - ISO/IEC 27035, 27037, 27041, 27042, 27043, 27050
+    - NIST SP 800-61 Rev. 3
+  - Business Continuity and Resilience
+    - ISO 22301
+    - NIST SP 800-34
+  - Supplier, Third-Party and Supply Chain Security
+    - ISO/IEC 27036
+    - NIST SP 800-161
+    - NIS2
+    - DORA
+    - EU Cyber Resilience Act
+  - Assurance, Audit and Security Evaluation
+    - SOC 1, SOC 2, SOC 3
+    - SSAE 18
+    - ISAE 3402
+    - ISO 19011
+    - ISO/IEC 15408 Common Criteria
+  - Legal, Jurisdiction and Data Governance
+    - EU Cybersecurity Act
+    - CLOUD Act
+    - Stored Communications Act
