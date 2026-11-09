@@ -4,12 +4,7 @@
 mindmap
   root((Cybersecurity Governance))
     NIST CSF 2.0
-      Govern
-      Identify
-      Protect
-      Detect
-      Respond
-      Recover
+      Cybersecurity Risk Governance Framework
     COBIT
       Governance and Management of Enterprise IT
     CIS Controls

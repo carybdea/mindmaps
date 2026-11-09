@@ -1,75 +1,157 @@
-# Master Map Source
+# Cybersecurity Standards, Frameworks & Regulations
 
-- Cybersecurity Standards, Frameworks and Regulations
+- Organization
   - Information Security Management
-    - ISO/IEC 27001: ISMS Requirements
-    - ISO/IEC 27002: Information Security Controls Guidance
-    - ISO/IEC 27005: Information Security Risk Management
+    - ISO/IEC 27001
+      - ISMS Requirements
+    - ISO/IEC 27002
+      - Information Security Controls Guidance
+    - ISO/IEC 27005
+      - Information Security Risk Management
   - Cybersecurity Governance
-    - NIST CSF 2.0: Govern, Identify, Protect, Detect, Respond, Recover
-    - COBIT: Governance and Management of Enterprise IT
-    - CIS Controls: Prioritized Cybersecurity Safeguards
-    - NIST SP 800-53: Security and Privacy Control Catalog
-  - Cloud Security
-    - ISO/IEC 27017: Cloud Security Controls Guidance
-    - ISO/IEC 27018: Protection of PII in Public Cloud
-    - ISO/IEC 27036-4: Security of Cloud Service Supplier Relationships
-    - CSA: CCM, CAIQ, STAR
-    - FedRAMP: US Federal Cloud Authorization
-    - ENISA: Cloud Security Risk Assessment and EUCS
-    - NIST SP 800-145: Cloud Definition
-    - NIST SP 800-146: Cloud Security and Adoption Guidance
-  - AI Governance and Risk
-    - ISO/IEC 42001: Artificial Intelligence Management System
-    - ISO/IEC 42005: AI System Impact Assessment
-    - ISO/IEC 27090: AI Cybersecurity
-    - NIST AI RMF 1.0: Govern, Map, Measure, Manage
-    - NIST AI 600-1: Generative AI Profile
-    - EU AI Act: Risk-based AI Regulation
-  - Privacy Management
-    - ISO/IEC 27701: Privacy Information Management System
-    - ISO/IEC 27018: PII Protection in Public Cloud
-    - GDPR: EU Personal Data Protection Regulation
-  - Sector and Regional Regulations
-    - HIPAA and HITECH
-    - GLBA
-    - PIPEDA
-    - Australian Privacy Act 1988
-    - CCPA and CPRA
-    - LGPD
-    - COPPA
-    - FERPA
-    - SOX
-    - FISMA
-    - PCI DSS
+    - NIST CSF 2.0
+      - Cybersecurity Risk Governance Framework
+    - COBIT
+      - Governance and Management of Enterprise IT
+    - CIS Controls
+      - Prioritized Cybersecurity Safeguards
+    - NIST SP 800-53
+      - Security and Privacy Control Catalog
   - Risk Management
     - ISO 31000
-      - IEC 31010
-      - ISO 31073
+      - Risk Management Guidelines
+    - IEC 31010
+      - Risk Assessment Techniques
+    - ISO 31073
+      - Risk Management Vocabulary
     - NIST SP 800-30
+      - Information Security Risk Assessment
     - NIST SP 800-37
-  - Cryptography and Key Management
+      - Risk Management Framework
+  - Cloud Security
+    - ISO/IEC 27017
+      - Cloud Security Controls Guidance
+    - ISO/IEC 27036-4
+      - Cloud Service Supplier Security
+    - CSA CCM
+      - Cloud Controls Matrix
+    - CSA CAIQ
+      - Cloud Provider Assessment Questionnaire
+    - CSA STAR
+      - Cloud Provider Assurance
+    - FedRAMP
+      - US Federal Cloud Authorization
+    - ENISA Cloud Security Risk Assessment
+      - Cloud-specific Risk Assessment
+    - ENISA EUCS
+      - Candidate EU Cloud Certification Scheme
+    - NIST SP 800-145
+      - Cloud Definition and Service Models
+    - NIST SP 800-146
+      - Cloud Security Guidance
+  - AI Governance & Risk
+    - ISO/IEC 42001
+      - AI Management System
+    - ISO/IEC 42005
+      - AI System Impact Assessment
+    - ISO/IEC 27090
+      - AI Cybersecurity
+    - NIST AI RMF 1.0
+      - AI Risk Management Framework
+    - NIST AI 600-1
+      - Generative AI Profile
+  - Privacy Management
+    - ISO/IEC 27701
+      - Privacy Information Management System
+    - ISO/IEC 27018
+      - PII Protection in Public Cloud
+  - Cryptography & Key Management
     - FIPS 140-3
+      - Cryptographic Module Security Requirements
     - NIST SP 800-57
-  - Incident Management and Digital Forensics
-    - ISO/IEC 27035, 27037, 27041, 27042, 27043, 27050
+      - Cryptographic Key Management
+  - Incident Management & Digital Forensics
+    - ISO/IEC 27035
+      - Information Security Incident Management
+    - ISO/IEC 27037
+      - Digital Evidence Identification Collection and Preservation
+    - ISO/IEC 27041
+      - Incident Investigation Method Assurance
+    - ISO/IEC 27042
+      - Digital Evidence Analysis and Interpretation
+    - ISO/IEC 27043
+      - Incident Investigation
+    - ISO/IEC 27050
+      - Electronic Discovery
     - NIST SP 800-61 Rev. 3
-  - Business Continuity and Resilience
+      - Incident Response Guidance
+  - Business Continuity & Resilience
     - ISO 22301
+      - Business Continuity Management System
     - NIST SP 800-34
-  - Supplier, Third-Party and Supply Chain Security
+      - Contingency Planning
+  - Supplier, Third-Party & Supply Chain Security
     - ISO/IEC 27036
+      - Supplier Relationship Security
     - NIST SP 800-161
-    - NIS2
-    - DORA
-    - EU Cyber Resilience Act
-  - Assurance, Audit and Security Evaluation
-    - SOC 1, SOC 2, SOC 3
+      - Cybersecurity Supply Chain Risk Management
+  - Payment Security
+    - PCI DSS
+      - Payment Card Data Security
+  - Assurance, Audit & Security Evaluation
+    - SOC 1
+      - Financial Reporting Controls Assurance
+    - SOC 2
+      - Trust Services Criteria Assurance
+    - SOC 3
+      - General-use Assurance Report
     - SSAE 18
+      - US Attestation Standard
     - ISAE 3402
+      - International Service Organization Assurance
     - ISO 19011
-    - ISO/IEC 15408 Common Criteria
-  - Legal, Jurisdiction and Data Governance
-    - EU Cybersecurity Act
-    - CLOUD Act
-    - Stored Communications Act
+      - Management System Audit Guidance
+    - ISO/IEC 15408
+      - IT Product Security Evaluation / Common Criteria
+  - Sector & Regional Regulations
+    - European Union
+      - GDPR
+        - Personal Data Protection
+      - NIS2
+        - Cybersecurity Risk Management & Incident Reporting
+      - DORA
+        - Digital Operational Resilience for Financial Entities
+      - EU Cyber Resilience Act
+        - Cybersecurity for Products with Digital Elements
+      - EU AI Act
+        - Risk-based AI Regulation
+      - EU Cybersecurity Act
+        - EU Cybersecurity Certification Framework
+    - United States
+      - HIPAA / HITECH
+        - Healthcare Privacy & Security
+      - GLBA
+        - Financial Privacy & Safeguards
+      - CCPA / CPRA
+        - California Consumer Privacy
+      - COPPA
+        - Children's Online Privacy
+      - FERPA
+        - Student Education Records
+      - SOX
+        - Financial Reporting & Internal Controls
+      - FISMA
+        - Federal Information Security
+      - CLOUD Act
+        - Government Access to Provider-controlled Data
+      - Stored Communications Act
+        - Stored Electronic Communications
+    - Canada
+      - PIPEDA
+        - Private-sector Privacy
+    - Australia
+      - Privacy Act 1988
+        - Australian Privacy Principles
+    - Brazil
+      - LGPD
+        - Personal Data Protection

@@ -1,20 +1,21 @@
 # Changelog
 
-## 2026-11-09
+## v1.1 - 2026-11-09
 
-### Changed
+### Structure
+- Reorganized laws and regulations under `Sector & Regional Regulations` by jurisdiction.
+- Added `European Union`, `United States`, `Canada`, `Australia`, and `Brazil` subcategories.
+- Moved NIS2, DORA, EU Cyber Resilience Act, EU AI Act and EU Cybersecurity Act to the EU regulation branch.
+- Moved GDPR to the EU regulation branch while keeping ISO privacy standards under Privacy Management.
+- Removed NIS2, DORA and CRA from the primary Supply Chain branch.
+- Added a dedicated Payment Security branch for PCI DSS.
+- Kept ISO/IEC 27036 and NIST SP 800-161 as the focused Supplier / SCRM references.
 
-- Replaced the single oversized Mermaid visualization with separate domain maps.
-- Added a GitHub-friendly index in `README.md`.
-- Retained the polished overview image as the primary visual.
-- Moved the complete hierarchy to `src/full-map.md` as a non-rendered master outline.
+### Consistency
+- Normalized reference descriptions to approximately `reference -> one-line purpose`.
+- Simplified Common Criteria, HIPAA/HITECH and other references to the same level of detail.
+- Kept FedRAMP and ENISA EUCS under Cloud Security as authorization/certification mechanisms.
+- Kept ISO/IEC 27005 under Information Security Management and ISO 31000 / NIST RMF under Risk Management.
 
-### Included
-
-- AI Governance and Risk
-- ISO/IEC 27036-4
-- NIST SP 800-161
-- NIS2, DORA, and the EU Cyber Resilience Act
-- ISO/IEC 15408 Common Criteria
-- ENISA EUCS candidate scheme
-- NIST SP 800-61 Revision 3 structure
+### Assets
+- Regenerated SVG and PNG maps to match the revised hierarchy.

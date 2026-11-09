@@ -4,13 +4,9 @@
 mindmap
   root((Assurance, Audit & Security Evaluation))
     SOC 1
-      Financial Reporting Controls
+      Financial Reporting Controls Assurance
     SOC 2
-      Trust Services Criteria
-      Type I
-        Design at a Specified Date
-      Type II
-        Design and Operating Effectiveness over a Period
+      Trust Services Criteria Assurance
     SOC 3
       General-use Assurance Report
     SSAE 18
@@ -19,9 +15,8 @@ mindmap
       International Service Organization Assurance
     ISO 19011
       Management System Audit Guidance
-    ISO/IEC 15408 Common Criteria
-      IT Product Security Evaluation
-      TOE PP ST and EAL
+    ISO/IEC 15408
+      IT Product Security Evaluation / Common Criteria
 ```
 
 [Back to main map](../README.md)

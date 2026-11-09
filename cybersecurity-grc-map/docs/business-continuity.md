@@ -7,11 +7,6 @@ mindmap
       Business Continuity Management System
     NIST SP 800-34
       Contingency Planning
-    Recovery Metrics
-      MTD or MAO
-      RTO
-      RPO
-      WRT
 ```
 
 [Back to main map](../README.md)

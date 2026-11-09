@@ -5,7 +5,6 @@ mindmap
   root((Cryptography & Key Management))
     FIPS 140-3
       Cryptographic Module Security Requirements
-      CMVP Validation
     NIST SP 800-57
       Cryptographic Key Management
 ```

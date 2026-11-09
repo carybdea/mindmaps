@@ -5,33 +5,24 @@ mindmap
   root((Cloud Security))
     ISO/IEC 27017
       Cloud Security Controls Guidance
-      Cloud Customer Controls
-      Cloud Service Provider Controls
-    ISO/IEC 27018
-      Protection of PII in Public Cloud
     ISO/IEC 27036-4
-      Security of Cloud Service Supplier Relationships
-    Cloud Security Alliance
-      CCM
-        Cloud Controls Matrix
-      CAIQ
-        Cloud Provider Assessment Questionnaire
-      STAR
-        Provider Assurance and Transparency
+      Cloud Service Supplier Security
+    CSA CCM
+      Cloud Controls Matrix
+    CSA CAIQ
+      Cloud Provider Assessment Questionnaire
+    CSA STAR
+      Cloud Provider Assurance
     FedRAMP
       US Federal Cloud Authorization
-      Security Assessment
-      Continuous Monitoring
-    ENISA
-      Cloud Security Risk Assessment
-      EUCS
-        Candidate EU Certification Scheme for Cloud Services
+    ENISA Cloud Security Risk Assessment
+      Cloud-specific Risk Assessment
+    ENISA EUCS
+      Candidate EU Cloud Certification Scheme
     NIST SP 800-145
-      Cloud Definition and Characteristics
-      SaaS PaaS IaaS
-      Public Private Community Hybrid
+      Cloud Definition and Service Models
     NIST SP 800-146
-      Cloud Security and Adoption Guidance
+      Cloud Security Guidance
 ```
 
 [Back to main map](../README.md)
