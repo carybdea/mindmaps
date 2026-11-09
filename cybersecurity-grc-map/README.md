@@ -2,7 +2,7 @@
 
 An organization-centered reference mapping major cybersecurity standards, frameworks, regulations, assurance mechanisms, and governance domains.
 
-[![Cybersecurity Standards, Frameworks and Regulations](assets/cybersecurity-grc-framework.png)](assets/cybersecurity-grc-framework.png)
+[![Cybersecurity Standards, Frameworks and Regulations](assets/cybersecurity.svg)](assets/cybersecurity.svg)
 
 ## Browse by domain
 
@@ -31,7 +31,8 @@ An organization-centered reference mapping major cybersecurity standards, framew
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
 ├── assets/
-│   └── cybersecurity-grc-framework.png
+│   ├── cybersecurity.svg
+│   └── cybersecurity.png
 ├── docs/
 │   └── one readable Mermaid map per domain
 └── src/
